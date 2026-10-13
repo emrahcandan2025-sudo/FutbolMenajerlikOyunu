@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "CNDN Futbol Menajeri",
+    "slug": "cndn-futbol-menajeri",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {"package":"com.cndn.futbolmenajeri", "versionCode":1}
+  }
+}
